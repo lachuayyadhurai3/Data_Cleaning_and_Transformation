@@ -1,8 +1,8 @@
-# Data Cleaning and Transformation using Excel
+# 📊 Data Cleaning and Transformation using Excel
 
 A simple project that cleans and transforms a small retail product dataset (34 rows) using only Excel.
 
-## Dataset
+## 📁 Dataset
 
 | Column | Description |
 |---|---|
@@ -76,17 +76,17 @@ For a more accurate result, use the median of the same Category instead.
 - Consistent text case and category names
 - Correct data types (numbers right-aligned)
 
-## Excel Features Used
+## 🛠️ Excel Features Used
 - Remove Duplicates
 - Find & Replace
 - `TRIM`, `PROPER`, `LEFT`, `RIGHT`, `MEDIAN`
 - Go To Special (to find blanks)
 - Filters and Pivot Tables (for checking the results)
 
-## Result
+## 📌 Result
 A clean dataset with no duplicates, no missing values, standardised text, and three new transformed columns (`Country Code`, `Manufacturing Date`, `Product Brand`).
 
-## Files
+## 🗂️ Files
 - `Raw_DataSet.xlsx`: original dataset
 - `Working_Dataset.xlsx`: Worked Document
 - `Cleaned_Dataset.xlsx`: cleaned and transformed dataset
