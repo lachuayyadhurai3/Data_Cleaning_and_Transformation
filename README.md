@@ -87,7 +87,9 @@ For a more accurate result, use the median of the same Category instead.
 A clean dataset with no duplicates, no missing values, standardised text, and three new transformed columns (`Country Code`, `Manufacturing Date`, `Product Brand`).
 
 ## 🗂️ Files
+3 Excel sheet saved in `Data_Cleaning_and_Transformation.xlsx` file
 - `Raw_DataSet.xlsx`: original dataset
 - `Working_Dataset.xlsx`: Worked Document
 - `Cleaned_Dataset.xlsx`: cleaned and transformed dataset
+- `Data_Cleaning_and_Transformation.pdf`: Questions and Screenshot attached
 - `README.md`: project documentation
